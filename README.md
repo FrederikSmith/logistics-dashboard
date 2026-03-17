@@ -102,6 +102,10 @@ not the binary late delivery risk flag
 
 DataCo Smart Supply Chain Dataset available on Kaggle.
 
+The raw dataset contains 180,519 rows and 53 columns. The cleaned version used in this
+project contains 24 columns selected for logistics analysis. The cleaning script is
+available in Sql/01_Cleaning.sql.
+
 ---
 
 ## Certifications
