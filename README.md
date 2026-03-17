@@ -18,17 +18,22 @@ categories and time.
 ---
 
 ## Key Findings
-
-- **54.83%** of all orders are delivered late
-- **First Class** shipping has the highest late delivery rate at **95%**, despite being
-a premium service
-- **Standard Class** performs best at **38%** late delivery rate
-- Late delivery rates increased consistently from **~20% in 2015** to **~40% in 2017**
-- The problem is **systemic** rather than regional, with all markets showing similar
-rates around 54-58%
-- **Golf Bags & Carts** and **Lacrosse** products have the highest category level late
-delivery rates at 69% and 60%
-
+ 
+* **54.83%** of all orders are delivered late
+* **First Class** shipping has the highest late delivery rate at **95%**, despite being
+  a premium service. However, First Class still delivers faster in absolute terms,
+  averaging 2 days actual vs 1 day scheduled. The high late rate is driven by a
+  tighter delivery window, not slower shipping
+* **Standard Class** has the lowest late delivery rate at **38%**, averaging 4 days
+  actual vs 4 days scheduled
+* All shipping modes exceed their scheduled delivery times, but faster modes have
+  higher late rates because their margins are smaller
+* Late delivery rates increased consistently from **~20% in 2015** to **~40% in 2017**
+* The problem is **systemic** rather than regional, with all markets showing similar
+  rates around 54-58%
+* **Golf Bags & Carts** and **Lacrosse** products have the highest category level late
+  delivery rates at 69% and 60%
+ 
 ---
 
 ## Tools and Workflow
@@ -81,10 +86,13 @@ shipping days. Includes a breakdown of late delivery rate by shipping mode and a
 donut chart showing the full delivery status distribution. Filterable by market.
 
 ### Page 2: Performance Deep Dive
+ 
 Late delivery rate across the top 15 product categories showing which products are
 most affected. A clustered column chart comparing actual vs scheduled shipping days
-by shipping mode, revealing where delivery promises are consistently broken. A yearly
-trend line showing the steady increase in late delivery rates from 2015 to 2017.
+by shipping mode, revealing that all modes exceed their targets but faster modes have
+tighter windows, which inflates their late delivery rates despite shorter actual
+delivery times. A yearly trend line showing the steady increase in late delivery rates
+from 2015 to 2017.
 
 ---
 
